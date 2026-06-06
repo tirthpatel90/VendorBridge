@@ -332,14 +332,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-## 👨‍💻 Author
-
-**Tirth Patel**
-- GitHub: [@tirthpatel90](https://github.com/tirthpatel90)
-
----
-
 <div align="center">
-  <p><strong>Made with ❤️ for procurement teams worldwide</strong></p>
+  <p><strong>Made for procurement teams worldwide</strong></p>
   <p>⭐ If you found this helpful, please consider giving it a star!</p>
 </div>
